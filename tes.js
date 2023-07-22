@@ -25,7 +25,7 @@ getDetails = ()=>{
     const str  = document.getElementById("fname").value
     const str2  = document.getElementById("lname").value
 
-    return `love between you your crush '${str}'`
+    return `love between you and  your crush '${str}' ❤️‍🩹`
 }
 
   
